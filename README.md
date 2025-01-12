@@ -1,7 +1,7 @@
 
-# Ping Visualizer
+# OddPing
 
-Ping Visualizer is a real-time graphical tool to monitor and visualize ping latency to multiple servers. It displays ping data as a line graph, with customizable colors, server configurations, and visual settings. The application is designed to be lightweight, transparent, and always on top, making it perfect for monitoring network performance while working.
+OddPing is a real-time graphical tool to monitor and visualize ping latency to multiple servers. It displays ping data as a line graph, with customizable colors, server configurations, and visual settings. The application is designed to be lightweight, transparent, and always on top, making it perfect for monitoring network performance while working.
 
 ---
 
@@ -28,8 +28,8 @@ Ping Visualizer is a real-time graphical tool to monitor and visualize ping late
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ping-visualizer.git
-   cd ping-visualizer
+   git clone https://github.com/XenOdd/OddPing.git
+   cd OddPing
    ```
 
 2. **Install Dependencies**:
@@ -39,7 +39,7 @@ Ping Visualizer is a real-time graphical tool to monitor and visualize ping late
 
 3. **Run the Application**:
    ```bash
-   python ping_visualizer.py
+   python OddPing.py
    ```
 
 ---
@@ -102,7 +102,7 @@ Example `config.json`:
 
 1. **Start the Application**:
    ```bash
-   python ping_visualizer.py
+   python OddPing.py
    ```
 
 2. **Interact with the Window**:
